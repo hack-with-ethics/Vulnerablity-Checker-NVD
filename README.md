@@ -6,13 +6,17 @@ This Will Scrap The Updated Vulnerablity From the National Vulnerablity Database
 
 Best For Vulnerablity Analysis and CTF challenges:
 
-Usage Python3 Nvd.py
+Usage: Python3 Nvd.py
+
   __  __ _____   __          ___    _ _____ _______ ______ _    _       _______ 
  |  \/  |  __ \  \ \        / / |  | |_   _|__   __|  ____| |  | |   /\|__   __|
  | \  / | |__) |  \ \  /\  / /| |__| | | |    | |  | |__  | |__| |  /  \  | |   
  | |\/| |  _  /    \ \/  \/ / |  __  | | |    | |  |  __| |  __  | / /\ \ | |   
  | |  | | | \ \     \  /\  /  | |  | |_| |_   | |  | |____| |  | |/ ____ \| |   
  |_|  |_|_|  \_\     \/  \/   |_|  |_|_____|  |_|  |______|_|  |_/_/    \_\_|   
+
+
+ 
 ***********************************************************************
 [*]Nist Api Access
 [*]Author : Mr Whitehat
